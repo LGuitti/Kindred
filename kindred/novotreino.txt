@@ -1,0 +1,563 @@
+Saudacao oie oiee
+Saudacao ola tudo bem kindred
+Saudacao oi poderia me ajudar auxiliar 
+Saudacao hey kindred
+Saudacao como voce esta kindred
+Saudacao ola querido chatbot
+Saudacao oi estou aqui kindred
+Saudacao ola como vai kindred
+Saudacao saudacoes kindred
+Saudacao cumprimentos kindred
+Saudacao oi quero ajuda
+Saudacao ola kindred como preciso de voce
+Saudacao como foi seu dia kindred
+Saudacao ola tudo tranquilo kindred
+Saudacao oie estou aqui kindred
+Saudacao bom dia como posso ajudar
+Saudacao ola estou aqui kindred
+Saudacao e ai tudo bem kindred
+Saudacao hey como vai kindred
+Saudacao ola amigo kindred
+Saudacao oi kindred tudo bem
+Saudacao necessito ajuda hoje kindred
+Saudacao ola kindred saudacoes
+Saudacao oi kindred estou disponivel
+Saudacao como voce esta hoje kindred
+Saudacao ola kindred qual e a boa
+Saudacao e ai kindred tudo certo
+Saudacao oi estou aqui kindred
+Saudacao ola como posso preciso de auxilio hoje
+Saudacao saudacoes kindred estou online
+Saudacao cumprimentos kindred necessito ajuda
+Saudacao ola kindred estou a disposicao
+Saudacao oi kindred como foi seu dia
+Saudacao e ai kindred tudo tranquilo
+Saudacao oie kindred como poderia me tirar uma duvida
+Saudacao bom dia kindred estou pronto
+Saudacao ola kindred saudacoes estou online
+Saudacao como voce esta kindred hoje
+Saudacao ola kindred pode me ajudar
+Saudacao e ai kindred
+Saudacao e ae 
+Saudacao e ai como vai
+Saudacao e aii
+Saudacao olaa
+Saudacao oi kindred qual e a novidade
+Saudacao e ai kindred tudo certo
+Saudacao hey kindred como posso ser util hoje
+Saudacao ola kindred saudacoes
+Saudacao oi kindred estou a disposicao
+Saudacao oie kindred estou com problemas
+Saudacao saudacoes kindred estou online
+Saudacao cumprimentos kindred quero resolver alguns problemas
+Duvida tenho algumas duvidas
+Duvida preciso de ajuda
+Duvida quero ajuda
+Duvida preciso de auxilio
+Duvida estou com duvidas
+Duvida estou com problemas
+Duvida quero uma informacao
+Duvida pode me ajudar
+Duvida quero resolver um problema
+Duvida estou com problemas na minha impressora
+Duvida preciso de algumas informacoes
+Duvida me ajude com uma informacao
+Duvida socorro
+Duvida poderia me responder
+Duvida preciso de respostas
+Duvida vou precisar de voce
+Duvida kindred help
+Duvida kindred me auxilie
+Informacao_do_Produto quais sao seus produtos
+Informacao_do_Produto me fale sobre seus produtos
+Informacao_do_Produto quais produtos voces oferecem
+Informacao_do_Produto conte-me sobre sua linha de produtos
+Informacao_do_Produto quais sao suas ofertas de produtos
+Informacao_do_Produto descreva seus produtos por favor
+Informacao_do_Produto o que sao os produtos da empresa
+Informacao_do_Produto quais sao os beneficios dos seus produtos
+Informacao_do_Produto fale-me sobre a qualidade dos produtos
+Informacao_do_Produto quais sao os recursos dos produtos
+Informacao_do_Produto o que diferencia seus produtos
+Informacao_do_Produto quais sao os precos dos produtos
+Informacao_do_Produto como sao seus produtos
+Informacao_do_Produto de-me informacoes sobre seus itens
+Informacao_do_Produto quais sao as opcoes de personalizacao
+Informacao_do_Produto como posso fazer um pedido
+Informacao_do_Produto como posso verificar o estoque
+Informacao_do_Produto o que os clientes estao dizendo
+Informacao_do_Produto como funciona o suporte pos-venda
+Informacao_do_Produto quais sao as opcoes de garantia
+Informacao_do_Produto como posso obter assistencia
+Informacao_do_Produto me fale sobre a politica de garantia
+Informacao_do_Produto o que torna seus produtos especiais
+Informacao_do_Produto quais produtos sao mais populares
+Informacao_do_Produto como posso personalizar um produto
+Informacao_do_Produto quais sao os produtos mais vendidos
+Informacao_do_Produto me diga sobre a garantia
+Informacao_do_Produto como posso comprar
+Informacao_do_Produto o que posso esperar dos seus produtos
+Informacao_do_Produto quais sao os produtos mais recentes
+Informacao_do_Produto me fale sobre a qualidade
+Informacao_do_Produto como funciona a entrega
+Informacao_do_Produto quais sao as opcoes de pagamento
+Informacao_do_Produto como posso obter mais informacoes
+Informacao_do_Produto quais sao os detalhes da garantia
+Informacao_do_Produto como posso entrar em contato com o suporte
+Informacao_do_Produto como posso devolver um produto
+Informacao_do_Produto quais sao os requisitos do sistema
+Informacao_do_Produto como funciona o processo de compra
+Informacao_do_Produto quais sao as politicas de devolucao
+Informacao_do_Produto como posso comparar produtos
+Informacao_do_Produto quais sao as opcoes de envio
+Informacao_do_Produto como posso solicitar um orcamento
+Informacao_do_Produto o que devo saber antes de comprar
+Informacao_do_Produto quais sao as opcoes de personalizacao
+Suporte_Tecnico como faco para entrar em contato com o suporte tecnico
+Suporte_Tecnico preciso de ajuda tecnica o que fazer
+Suporte_Tecnico como entrar em contato com o suporte
+Suporte_Tecnico quem posso contatar para suporte
+Suporte_Tecnico como posso obter assistencia tecnica
+Suporte_Tecnico estou com problemas ajude-me
+Suporte_Tecnico meu dispositivo esta com defeito o que eu faco
+Suporte_Tecnico como solucionar problemas
+Suporte_Tecnico minha impressora nao funciona ajuda
+Suporte_Tecnico o que fazer em caso de falhas tecnicas
+Suporte_Tecnico como resolver problemas tecnicos
+Suporte_Tecnico estou perdido ajuda tecnica por favor
+Suporte_Tecnico onde encontrar suporte para meu dispositivo
+Suporte_Tecnico como posso obter suporte rapido
+Suporte_Tecnico como faco para entrar em contato com o suporte tecnico
+Suporte_Tecnico qual e o horario de funcionamento do suporte
+Suporte_Tecnico como posso verificar o status do meu chamado
+Suporte_Tecnico quais sao os metodos de suporte disponiveis
+Suporte_Tecnico como posso reiniciar meu dispositivo
+Suporte_Tecnico onde encontrar manuais de usuario
+Suporte_Tecnico quais sao os requisitos de sistema
+Suporte_Tecnico como fazer uma reinicializacao de fabrica
+Suporte_Tecnico o que fazer em caso de problemas de conexao
+Suporte_Tecnico como fazer uma atualizacao de firmware
+Suporte_Tecnico onde encontrar drivers atualizados
+Suporte_Tecnico como realizar uma solucao de problemas basica
+Suporte_Tecnico o que e o suporte premium
+Suporte_Tecnico onde encontrar tutoriais em video
+Suporte_Tecnico quais sao as etapas para resolver um problema
+Suporte_Tecnico como posso diagnosticar problemas no meu dispositivo
+Suporte_Tecnico quais sao os passos para solucionar problemas tecnicos
+Suporte_Tecnico como verificar se ha atualizacoes de software
+Suporte_Tecnico onde encontrar a secao de perguntas frequentes
+Suporte_Tecnico como posso obter suporte remoto
+Suporte_Tecnico quais sao os principais problemas que o suporte pode resolver
+Suporte_Tecnico como entrar em contato com o suporte via chat
+Suporte_Tecnico quais sao as informacoes necessarias ao contatar o suporte
+Suporte_Tecnico o que fazer antes de entrar em contato com o suporte
+Suporte_Tecnico como posso agendar um horario com o suporte
+Suporte_Tecnico quais sao os servicos incluidos no suporte tecnico
+Suporte_Tecnico como posso reportar um problema ao suporte
+Suporte_Tecnico o que fazer se eu nao estiver satisfeito com o suporte
+Suporte_Tecnico quais sao os canais de suporte disponiveis
+Suporte_Tecnico como posso obter suporte presencial
+Suporte_Tecnico quais sao as opcoes de suporte apos o horario comercial
+Suporte_Tecnico como funciona o suporte tecnico remoto
+Suporte_Tecnico quais sao os requisitos para obter suporte remoto
+Suporte_Tecnico como posso fornecer feedback sobre o suporte
+Suporte_Tecnico o que fazer se eu precisar de suporte fora do horario comercial
+Suporte_Tecnico quais sao os beneficios do suporte premium
+Suporte_Tecnico como posso obter suporte para produtos fora de garantia
+Garantia qual e a politica de garantia dos produtos
+Garantia quanto tempo dura a garantia
+Garantia como funciona a garantia dos produtos
+Garantia o que a garantia cobre
+Garantia quais sao os termos da garantia
+Garantia posso estender a garantia
+Garantia qual e o processo de acionar a garantia
+Garantia como reivindicar a garantia
+Garantia quais sao as condicoes da garantia
+Garantia o que acontece se meu produto falhar
+Garantia a garantia inclui reparos gratuitos
+Garantia qual e a politica de retorno
+Garantia como funciona a garantia estendida
+Garantia posso comprar garantia adicional
+Garantia como posso registrar minha garantia
+Garantia quais sao as exclusoes da garantia
+Garantia como verificar o status da minha garantia
+Garantia qual e o procedimento de devolucao
+Garantia o que acontece apos o termino da garantia
+Garantia quais danos nao sao cobertos pela garantia
+Garantia como solicitar servico de garantia
+Garantia quais sao os centros de servico autorizados
+Garantia o que fazer em caso de perda da nota fiscal
+Garantia como obter garantia estendida
+Garantia posso transferir a garantia para outra pessoa
+Garantia como rastrear uma reivindicacao de garantia
+Garantia o que e considerado uso indevido
+Garantia como obter uma copia da politica de garantia
+Garantia quais sao os passos para acionar a garantia
+Garantia quais sao as opcoes de reparo cobertas pela garantia
+Garantia como solicitar uma substituicao sob garantia
+Garantia quais sao os prazos de garantia para diferentes produtos
+Garantia como obter suporte pos-garantia
+Garantia quais sao as restricoes da garantia
+Garantia como funciona a garantia internacional
+Garantia quais sao as garantias estendidas disponiveis
+Garantia como obter um certificado de garantia
+Garantia quais sao os documentos necessarios para acionar a garantia
+Garantia como posso estender a garantia apos a compra
+Garantia quais sao as politicas de devolucao durante o periodo de garantia
+Garantia como posso verificar a validade da garantia
+Garantia quais sao as opcoes de garantia para produtos recondicionados
+Garantia como posso cancelar uma reivindicacao de garantia
+Garantia quais sao as restricoes da garantia internacional
+Garantia como posso obter servico de garantia em areas remotas
+Garantia quais sao as opcoes de substituicao sob garantia
+Garantia como posso acionar a garantia para produtos comprados online
+Garantia quais sao os beneficios da garantia premium
+Garantia como obter suporte tecnico durante o periodo de garantia
+Garantia quais sao as opcoes de garantia para produtos personalizados
+Instalacao_da_Impressora como instalo a impressora
+Instalacao_da_Impressora quais sao as etapas de instalacao
+Instalacao_da_Impressora preciso de ajuda para configurar minha impressora
+Instalacao_da_Impressora como configurar a impressora
+Instalacao_da_Impressora quais cabos devo conectar
+Instalacao_da_Impressora qual e o software necessario
+Instalacao_da_Impressora preciso de instrucoes passo a passo
+Instalacao_da_Impressora como instalar os drivers da impressora
+Instalacao_da_Impressora onde encontrar o manual de instalacao
+Instalacao_da_Impressora quais sao os requisitos do sistema
+Instalacao_da_Impressora como fazer a primeira impressao
+Instalacao_da_Impressora posso usar a impressora em rede
+Instalacao_da_Impressora preciso de ajuda com a configuracao
+Instalacao_da_Impressora qual e a melhor localizacao para minha impressora
+Instalacao_da_Impressora posso instalar a impressora sem o CD
+Instalacao_da_Impressora como conectar a impressora a uma rede Wi-Fi
+Instalacao_da_Impressora como verificar a compatibilidade do sistema
+Instalacao_da_Impressora qual e o cabo recomendado para a impressora
+Instalacao_da_Impressora como atualizar os drivers da impressora
+Instalacao_da_Impressora quais sao os melhores tipos de papel
+Instalacao_da_Impressora como instalar a tinta na impressora
+Instalacao_da_Impressora como verificar se a impressora esta online
+Instalacao_da_Impressora como configurar a impressora em um Mac
+Instalacao_da_Impressora onde encontrar o guia de instalacao
+Instalacao_da_Impressora qual e a primeira coisa a fazer apos a instalacao
+Instalacao_da_Impressora posso imprimir sem fio
+Instalacao_da_Impressora como verificar a qualidade da impressao
+Instalacao_da_Impressora quais sao os problemas comuns na instalacao da impressora
+Instalacao_da_Impressora quais sao os passos basicos para configurar a impressora
+Instalacao_da_Impressora como fazer a calibracao da impressora
+Instalacao_da_Impressora onde encontrar ajuda online para a instalacao da impressora
+Instalacao_da_Impressora quais sao as configuracoes recomendadas para a impressora
+Instalacao_da_Impressora como solucionar problemas durante a instalacao da impressora
+Instalacao_da_Impressora quais sao os cuidados a serem tomados durante a instalacao
+Instalacao_da_Impressora como posso personalizar as configuracoes da impressora
+Instalacao_da_Impressora quais sao as opcoes de conectividade disponiveis para a impressora
+Instalacao_da_Impressora como configurar a impressora para um ambiente de escritorio
+Instalacao_da_Impressora onde posso encontrar tutoriais em video sobre a instalacao da impressora
+Instalacao_da_Impressora como instalar uma impressora sem um CD de instalacao
+Instalacao_da_Impressora quais sao as etapas de configuracao da impressora
+Instalacao_da_Impressora como configurar a impressora para impressao sem margens
+Instalacao_da_Impressora quais sao os requisitos de sistema para a impressora
+Instalacao_da_Impressora como verificar a compatibilidade da impressora com dispositivos moveis
+Instalacao_da_Impressora quais sao as configuracoes recomendadas para otimizar a impressao
+Instalacao_da_Impressora como posso imprimir a partir de um dispositivo movel
+Instalacao_da_Impressora quais sao as configuracoes de rede recomendadas para a impressora
+Instalacao_da_Impressora como posso configurar a impressora para impressao frente e verso
+Instalacao_da_Impressora onde posso encontrar suporte online para a instalacao da impressora
+Instalacao_da_Impressora quais sao as etapas para configurar a impressora em uma rede domestica
+Instalacao_da_Impressora como configurar a impressora para impressao a partir de um smartphone
+Problemas_com_Impressao estou enfrentando problemas de impressao
+Problemas_com_Impressao minha impressora nao imprime
+Problemas_com_Impressao o que fazer com paginas em branco
+Problemas_com_Impressao como lidar com atolamentos de papel
+Problemas_com_Impressao impressao com falhas o que fazer
+Problemas_com_Impressao como resolver problemas de qualidade de impressao
+Problemas_com_Impressao minhas paginas estao manchadas
+Problemas_com_Impressao problemas de conectividade com a impressora
+Problemas_com_Impressao erros de impressao ajuda por favor
+Problemas_com_Impressao como lidar com mensagens de erro na impressora
+Problemas_com_Impressao minhas cores nao estao sendo impressas corretamente
+Problemas_com_Impressao ajuda com a calibracao da impressora
+Problemas_com_Impressao solucoes para problemas comuns de impressao
+Problemas_com_Impressao como solucionar problemas de papel travado
+Problemas_com_Impressao minha impressora esta imprimindo paginas em branco
+Problemas_com_Impressao o que fazer com mensagens de erro de impressao
+Problemas_com_Impressao como verificar a tinta restante na impressora
+Problemas_com_Impressao como alinhar os cartuchos de tinta
+Problemas_com_Impressao minhas impressoes estao borradas
+Problemas_com_Impressao como digitalizar um documento
+Problemas_com_Impressao a impressao esta muito lenta como resolver
+Problemas_com_Impressao como verificar a qualidade da impressao
+Problemas_com_Impressao problemas comuns com toner e tinta
+Problemas_com_Impressao impressao em cores erradas
+Problemas_com_Impressao como lidar com manchas de tinta na pagina
+Problemas_com_Impressao como economizar tinta ao imprimir
+Problemas_com_Impressao minha impressora nao esta se conectando
+Problemas_com_Impressao como verificar a qualidade da impressao em uma impressora a laser
+Problemas_com_Impressao quais sao as possiveis causas de impressao desbotada
+Problemas_com_Impressao como resolver problemas de alimentacao de papel na impressora
+Problemas_com_Impressao minha impressora esta imprimindo com listras
+Problemas_com_Impressao como corrigir impressao com falhas em uma impressora a jato de tinta
+Problemas_com_Impressao quais sao os passos para solucionar problemas de impressao em uma impressora multifuncional
+Problemas_com_Impressao como lidar com folhas em branco ao imprimir em uma impressora a laser
+Problemas_com_Impressao minha impressora esta imprimindo com sombras o que fazer
+Problemas_com_Impressao como solucionar problemas de digitalizacao em uma impressora multifuncional
+Problemas_com_Impressao quais sao as possiveis causas de impressao com riscos
+Problemas_com_Impressao como corrigir impressao desalinhada em uma impressora a jato de tinta
+Problemas_com_Impressao minha impressora esta imprimindo com pontos brancos o que fazer
+Problemas_com_Impressao como solucionar problemas de alimentacao de papel em uma impressora a jato de tinta
+Problemas_com_Impressao quais sao as possiveis causas de impressao com manchas
+Problemas_com_Impressao como corrigir impressao com sombras em uma impressora a laser
+Problemas_com_Impressao minha impressora esta imprimindo com cores erradas o que fazer
+Problemas_com_Impressao como solucionar problemas de impressao em uma impressora wireless
+Problemas_com_Impressao quais sao as possiveis causas de impressao com linhas
+Problemas_com_Impressao como corrigir impressao com listras em uma impressora a laser
+Problemas_com_Impressao minha impressora esta imprimindo com texto ilegivel o que fazer
+Problemas_com_Impressao como solucionar problemas de impressao em uma impressora de etiquetas
+Problemas_com_Impressao quais sao as possiveis causas de impressao com falhas
+Problemas_com_Impressao como corrigir impressao desalinhada em uma impressora a laser
+Problemas_com_Impressao minha impressora esta imprimindo com manchas coloridas o que fazer
+Informacao_do_Produto o que sao os produtos da empresa
+Informacao_do_Produto quais produtos voces oferecem
+Informacao_do_Produto pode me falar sobre os produtos
+Informacao_do_Produto diga-me mais sobre seus produtos
+Informacao_do_Produto que tipo de produtos voces vendem
+Informacao_do_Produto quais sao suas ofertas de produtos
+Informacao_do_Produto descreva seus produtos por favor
+Informacao_do_Produto conte-me sobre sua linha de produtos
+Informacao_do_Produto quais produtos estao disponiveis
+Informacao_do_Produto como sao seus produtos
+Informacao_do_Produto de-me informacoes sobre seus itens
+Informacao_do_Produto o que posso comprar aqui
+Informacao_do_Produto fale-me sobre sua gama de produtos
+Informacao_do_Produto o que diferencia seus produtos
+Informacao_do_Produto quais beneficios seus produtos oferecem
+Informacao_do_Produto conte-me mais sobre os produtos
+Informacao_do_Produto quais sao os recursos dos produtos
+Informacao_do_Produto como seus produtos se comparam a concorrencia
+Informacao_do_Produto quais sao as principais caracteristicas dos produtos
+Informacao_do_Produto fale-me sobre a qualidade dos produtos
+Informacao_do_Produto o que torna seus produtos especiais
+Informacao_do_Produto quais produtos sao mais populares
+Informacao_do_Produto quais sao os precos dos produtos
+Informacao_do_Produto de-me informacoes sobre o suporte pos-venda
+Informacao_do_Produto quais sao as opcoes de personalizacao
+Informacao_do_Produto como posso fazer um pedido
+Informacao_do_Produto como posso verificar o estoque
+Informacao_do_Produto o que os clientes estao dizendo
+Informacao_do_Produto quais sao os beneficios de usar seus produtos
+Informacao_do_Produto quais sao os diferenciais dos seus produtos
+Informacao_do_Produto como posso comparar os produtos disponiveis
+Informacao_do_Produto quais sao os comentarios sobre seus produtos
+Informacao_do_Produto quais sao as avaliacoes dos clientes
+Informacao_do_Produto como escolher o produto certo para minhas necessidades
+Informacao_do_Produto quais sao as opcoes de embalagem dos produtos
+Informacao_do_Produto como posso obter mais informacoes sobre um produto especifico
+Informacao_do_Produto quais sao as garantias dos produtos
+Informacao_do_Produto como posso encontrar informacoes tecnicas sobre os produtos
+Informacao_do_Produto quais sao as promocoes atuais nos produtos
+Informacao_do_Produto como posso saber mais sobre as especificacoes dos produtos
+Informacao_do_Produto quais sao as vantagens competitivas dos seus produtos
+Informacao_do_Produto como posso obter amostras dos produtos
+Informacao_do_Produto quais sao as opcoes de entrega para os produtos
+Informacao_do_Produto como posso comparar as caracteristicas dos produtos
+Informacao_do_Produto quais sao as politicas de devolucao dos produtos
+Informacao_do_Produto como posso personalizar meu pedido
+Informacao_do_Produto quais sao as opcoes de pagamento disponiveis para os produtos
+Informacao_do_Produto como posso obter um catalogo dos produtos
+Informacao_do_Produto quais sao as recomendacoes para o uso dos produtos
+Informacao_do_Produto como posso entrar em contato para obter mais informacoes sobre os produtos
+Informacao_do_Produto quais sao os beneficios ambientais dos seus produtos
+Informacao_do_Produto como posso solicitar uma demonstracao dos produtos
+Frustracao nao conseguiu me ajudar
+Frustracao estou frustrado porque nao resolveu meu problema
+Frustracao nao foi capaz de oferecer a assistencia que eu precisava
+Frustracao estou decepcionado com a incapacidade em ajudar
+Frustracao nao atendeu minhas expectativas e estou frustrado
+Frustracao estou insatisfeito porque nao resolveu meu dilema
+Frustracao nao conseguiu fornecer uma solucao adequada
+Frustracao estou aborrecido porque nao conseguiu me orientar
+Frustracao nao foi eficaz em resolver meu problema e estou irritado
+Frustracao estou chateado porque nao pôde me auxiliar
+Frustracao nao satisfez minha necessidade de ajuda e estou incomodado
+Frustracao estou frustrado porque nao conseguiu me entender
+Frustracao kindred nao ofereceu uma resposta satisfatoria e estou desapontado
+Frustracao estou descontente porque kindred nao resolveu minha questao
+Frustracao kindred nao foi capaz de me auxiliar de maneira eficiente
+Frustracao estou aborrecido porque kindred nao conseguiu atender minhas expectativas
+Frustracao kindred nao cumpriu minha expectativa de ajuda e estou irritado
+Frustracao estou chateado porque kindred nao pôde fornecer a orientacao necessaria
+Frustracao kindred nao conseguiu me ajudar como eu esperava
+Frustracao estou decepcionado porque kindred nao foi eficaz em resolver meu problema
+Frustracao kindred nao atendeu às minhas necessidades e estou frustrado
+Frustracao estou insatisfeito porque kindred nao pôde me orientar corretamente
+Frustracao kindred nao foi eficaz em fornecer uma solucao para meu dilema
+Frustracao estou aborrecido porque kindred nao conseguiu entender meu problema
+Frustracao kindred nao ofereceu uma resposta satisfatoria e estou desapontado
+Frustracao estou descontente porque kindred nao resolveu minha questao
+Frustracao kindred nao foi capaz de me auxiliar de maneira eficiente
+Frustracao estou aborrecido porque kindred nao conseguiu atender minhas expectativas
+Frustracao kindred nao cumpriu minha expectativa de ajuda e estou irritado
+Frustracao estou chateado porque kindred nao pôde fornecer a orientacao necessaria
+Frustracao kindred nao conseguiu me ajudar como eu esperava
+Frustracao estou decepcionado porque kindred nao foi eficaz em resolver meu problema
+Frustracao kindred nao atendeu às minhas necessidades e estou frustrado
+Frustracao estou insatisfeito porque kindred nao pôde me orientar corretamente
+Frustracao kindred nao foi eficaz em fornecer uma solucao para meu dilema
+Frustracao estou aborrecido porque kindred nao conseguiu entender meu problema
+Frustracao kindred nao ofereceu uma resposta satisfatoria e estou desapontado
+Frustracao estou descontente porque kindred nao resolveu minha questao
+Frustracao kindred nao foi capaz de me auxiliar de maneira eficiente
+Frustracao estou aborrecido porque kindred nao conseguiu atender minhas expectativas
+Frustracao kindred nao cumpriu minha expectativa de ajuda e estou irritado
+Frustracao estou chateado porque kindred nao pôde fornecer a orientacao necessaria
+Frustracao kindred nao conseguiu me ajudar como eu esperava
+Frustracao estou decepcionado porque kindred nao foi eficaz em resolver meu problema
+Frustracao kindred nao atendeu às minhas necessidades e estou frustrado
+Frustracao estou insatisfeito porque kindred nao pôde me orientar corretamente
+Frustracao kindred nao foi eficaz em fornecer uma solucao para meu dilema
+Frustracao estou aborrecido porque kindred nao conseguiu entender meu problema
+Frustracao kindred nao ofereceu uma resposta satisfatoria e estou desapontado
+Frustracao estou descontente porque kindred nao resolveu minha questao
+Frustracao kindred nao foi capaz de me auxiliar de maneira eficiente
+Frustracao estou aborrecido porque kindred nao conseguiu atender minhas expectativas
+Frustracao kindred nao cumpriu minha expectativa de ajuda e estou irritado
+Frustracao estou chateado porque kindred nao pôde fornecer a orientacao necessaria
+Frustracao kindred nao conseguiu me ajudar como eu esperava
+Frustracao estou decepcionado porque kindred nao foi eficaz em resolver meu problema
+Frustracao kindred nao atendeu às minhas necessidades e estou frustrado
+Frustracao estou insatisfeito porque kindred nao pôde me orientar corretamente
+Frustracao kindred nao foi eficaz em fornecer uma solucao para meu dilema
+Frustracao estou aborrecido porque kindred nao conseguiu entender meu problema
+Frustracao kindred nao ofereceu uma resposta satisfatoria e estou desapontado
+Frustracao estou descontente porque kindred nao resolveu minha questao
+Frustracao kindred nao foi capaz de me auxiliar de maneira eficiente
+Frustracao estou aborrecido porque kindred nao conseguiu atender minhas expectativas
+Frustracao kindred nao cumpriu minha expectativa de ajuda e estou irritado
+Frustracao estou chateado porque kindred nao pôde fornecer a orientacao necessaria
+Frustracao kindred nao conseguiu me ajudar como eu esperava
+Frustracao estou decepcionado porque kindred nao foi eficaz em resolver meu problema
+Frustracao kindred nao atendeu às minhas necessidades e estou frustrado
+Frustracao estou insatisfeito porque kindred nao pôde me orientar corretamente
+Frustracao kindred nao foi eficaz em fornecer uma solucao para meu dilema
+Frustracao estou aborrecido porque kindred nao conseguiu entender meu problema
+Frustracao kindred nao ofereceu uma resposta satisfatoria e estou desapontado
+Frustracao estou descontente porque kindred nao resolveu minha questao
+Frustracao kindred nao foi capaz de me auxiliar de maneira eficiente
+Frustracao estou aborrecido porque kindred nao conseguiu atender minhas expectativas
+Frustracao kindred nao cumpriu minha expectativa de ajuda e estou irritado
+Frustracao estou chateado porque kindred nao pôde fornecer a orientacao necessaria
+Frustracao kindred nao conseguiu me ajudar como eu esperava
+Frustracao estou decepcionado porque kindred nao foi eficaz em resolver meu problema
+Frustracao kindred nao atendeu às minhas necessidades e estou frustrado
+Frustracao estou insatisfeito porque kindred nao pôde me orientar corretamente
+Frustracao kindred nao foi eficaz em fornecer uma solucao para meu dilema
+Frustracao estou aborrecido porque kindred nao conseguiu entender meu problema
+Frustracao kindred nao ofereceu uma resposta satisfatoria e estou desapontado
+Frustracao estou descontente porque kindred nao resolveu minha questao
+Frustracao kindred nao foi capaz de me auxiliar de maneira eficiente
+Frustracao estou aborrecido porque kindred nao conseguiu atender minhas expectativas
+Frustracao kindred nao cumpriu minha expectativa de ajuda e estou irritado
+Frustracao estou chateado porque kindred nao pôde fornecer a orientacao necessaria
+Frustracao kindred nao conseguiu me ajudar como eu esperava
+Frustracao estou decepcionado porque kindred nao foi eficaz em resolver meu problema
+Frustracao kindred nao atendeu às minhas necessidades e estou frustrado
+Frustracao estou insatisfeito porque kindred nao pôde me orientar corretamente
+Frustracao kindred nao foi eficaz em fornecer uma solucao para meu dilema
+Frustracao estou aborrecido porque kindred nao conseguiu entender meu problema
+Frustracao kindred nao ofereceu uma resposta satisfatoria e estou desapontado
+Frustracao estou descontente porque kindred nao resolveu minha questao
+Frustracao kindred nao foi capaz de me auxiliar de maneira eficiente
+Frustracao estou aborrecido porque kindred nao conseguiu atender minhas expectativas
+Frustracao kindred nao cumpriu minha expectativa de ajuda e estou irritado
+Frustracao estou chateado porque kindred nao pôde fornecer a orientacao necessaria
+Frustracao kindred nao conseguiu me ajudar como eu esperava
+Frustracao estou decepcionado porque kindred nao foi eficaz em resolver meu problema
+Frustracao kindred nao atendeu às minhas necessidades e estou frustrado
+Frustracao estou insatisfeito porque kindred nao pôde me orientar corretamente
+Frustracao kindred nao foi eficaz em fornecer uma solucao para meu dilema
+Frustracao estou aborrecido porque kindred nao conseguiu entender meu problema
+Frustracao kindred nao ofereceu uma resposta satisfatoria e estou desapontado
+Frustracao estou descontente porque kindred nao resolveu minha questao
+Frustracao kindred nao foi capaz de me auxiliar de maneira eficiente
+Frustracao estou aborrecido porque kindred nao conseguiu atender minhas expectativas
+Frustracao kindred nao cumpriu minha expectativa de ajuda e estou irritado
+Frustracao estou chateado porque kindred nao pôde fornecer a orientacao necessaria
+Frustracao kindred nao conseguiu me ajudar como eu esperava
+Frustracao estou decepcionado porque kindred nao foi eficaz em resolver meu problema
+Frustracao kindred nao atendeu às minhas necessidades e estou frustrado
+Frustracao estou insatisfeito porque kindred nao pôde me orientar corretamente
+Frustracao kindred nao foi eficaz em fornecer uma solucao para meu dilema
+Frustracao estou aborrecido porque kindred nao conseguiu entender meu problema
+Frustracao kindred nao ofereceu uma resposta satisfatoria e estou desapontado
+Frustracao estou descontente porque kindred nao resolveu minha questao
+Frustracao kindred nao foi capaz de me auxiliar de maneira eficiente
+Frustracao estou aborrecido porque kindred nao conseguiu atender minhas expectativas
+Frustracao kindred nao cumpriu minha expectativa de ajuda e estou irritado
+Frustracao estou chateado porque kindred nao pôde fornecer a orientacao necessaria
+Frustracao voce nao esta conseguindo me ajudar
+Frustracao voce nao ta me ajudando
+Frustracao nada do que voce diz me ajuda
+Frustracao nada do que voce fala funciona
+Frustracao isso nao funcionou 
+Frustracao nao esta dando certo
+Frustracao nao esta rolando
+Frustracao que saco nao deu certo
+Encerramento obrigado pela interação encerrando por agora
+Encerramento agradeço pela colaboração até mais tarde
+Encerramento tudo certo encerrando a conversa por agora
+Encerramento ok encerrando a interação até a próxima
+Encerramento agradeço pela ajuda encerrando por aqui
+Encerramento beleza encerrando a sessão até breve
+Encerramento entendido encerrando a conversa até mais
+Encerramento valeu chatbot encerrando por agora
+Encerramento certo agradeço pela assistência até logo
+Encerramento tudo esclarecido encerrando por aqui
+Encerramento ótimo encerrando a interação por agora
+Encerramento agradeço pela atenção até a próxima vez
+Encerramento perfeito encerrando a conversa até breve
+Encerramento beleza vou encerrar por agora obrigado
+Encerramento obrigado Kindred encerrando por aqui
+Encerramento está tudo claro encerrando a interação
+Encerramento ok encerrando a sessão até mais tarde
+Encerramento excelente encerrando por enquanto
+Encerramento agradeço pelas respostas até a próxima
+Encerramento certo encerrando a conversa até breve
+Encerramento entendido encerrando por agora valeu
+Encerramento tudo certo Kindred até a próxima vez
+Encerramento valeu chatbot encerrando a interação
+Encerramento agradeço pela colaboração até mais
+Encerramento beleza encerrando por aqui até logo
+Encerramento ok encerrando a conversa até breve
+Encerramento obrigado pela ajuda encerrando por agora
+Encerramento está tudo claro até mais tarde
+Encerramento agradeço pela assistência até a próxima
+Encerramento certo encerrando a interação por agora
+Encerramento tudo esclarecido encerrando por aqui
+Encerramento ótimo encerrando a conversa até breve
+Encerramento obrigado Kindred até logo
+Encerramento beleza vou encerrar por agora
+Encerramento perfeito encerrando a sessão
+Encerramento está tudo claro até a próxima vez
+Encerramento agradeço pela atenção encerrando por aqui
+Encerramento certo encerrando a conversa até logo
+Encerramento valeu chatbot encerrando por agora
+Encerramento beleza encerrando a interação
+Encerramento ok encerrando por aqui até breve
+Encerramento excelente encerrando a conversa
+Encerramento agradeço pelas respostas até mais tarde
+Encerramento certo encerrando por agora
+Encerramento entendido encerrando a interação
+Encerramento tudo certo Kindred até a próxima vez
+Encerramento adeus
+Encerramento tchau
+Xingamento chatbot inutil
+Xingamento kindred burro burra
+Xingamento você é horrivel
+Xingamento chatbot imprestavel
+Xingamento você não presta
+Xingamento software lixo
+Xingamento você é totalmente incapaz
+Xingamento você é simplemente incompetente
+Xingamento kindred inutil
+Xingamento kindred lixo
+Xingamento chatbot lixo
+Xingamento eu te odeio
